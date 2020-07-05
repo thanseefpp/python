@@ -1,1 +1,1 @@
-pw = "24657448Pp"
+pw = "password"
